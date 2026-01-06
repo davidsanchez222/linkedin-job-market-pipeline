@@ -1,0 +1,11 @@
+name: linkedin-etl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas>=2.0
+  - numpy>=1.24
+  - python-dateutil>=2.8
+  - pip
+  - pip:
+      - streamlit>=1.30

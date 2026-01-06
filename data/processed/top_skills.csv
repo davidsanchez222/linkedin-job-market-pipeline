@@ -1,0 +1,21 @@
+skill,job_count
+sql,765
+python,617
+aws,484
+java,407
+azure,392
+gcp,237
+tableau,218
+power bi,199
+etl,189
+docker,137
+kubernetes,135
+spark,121
+data modeling,115
+snowflake,82
+kafka,63
+hadoop,52
+scala,34
+airflow,30
+dbt,25
+hive,21
